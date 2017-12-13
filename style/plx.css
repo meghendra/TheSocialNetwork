@@ -1,0 +1,19 @@
+/*small reset*/
+
+body, ul, ol, li, p, h1,h2, h3, h4, h5, h6, form, blockquote {
+margin:0;
+padding:0;
+}
+
+
+/*parallax*/
+
+#parallax{
+height:780px;
+overflow:hidden;
+position:absolute;
+top: 55px;
+left: 790px;
+width:175px;
+}
+
